@@ -1,0 +1,59 @@
+1. Personal Bio Page
+    Use <h1> for your name.
+    Add a photo with <img>.
+    Write a paragraph with <q> to quote yourself.
+    Add a <blockquote> with a favorite quote.
+    Use <br> to break address lines.
+
+2. Programming Tutorial Page
+    Add a heading for the tutorial title.
+    Include <code> to show a code snippet.
+    Use <kbd> to show keyboard shortcuts.
+    Add <samp> to show sample output.
+    Use <pre> to show multi-line code with indentation.
+
+3. Language Practice Page
+    Use <bdo> to display text in right-to-left direction.
+    Add a paragraph with normal direction.
+    Add an <img> representing the language flag.
+
+4. Editing History Page
+    Write original text using <del>.
+    Add new text using <ins>.
+    Include a paragraph explaining the change.
+
+5. Glossary Page
+    Use <dfn> to define technical terms
+    Include multiple terms in <p> tags.
+    Use <abbr> for abbreviations with title.
+    Add <acronym> for old-style acronym practice with title.
+
+6. Math Page
+    Use <var> to show variables in equations.
+    Add a paragraph with math explanations.
+    Use <br> to break lines for steps.
+
+7. Quotation Showcase Page
+    Use <blockquote> for a famous quote
+    Add inline quotes with <q> in a paragraph.
+    Include author name in <p>.
+
+8. Multi-Language Direction Page
+    Display normal text.
+    Add <bdo> with dir="rtl" for reversed text.
+    Include a heading for section titles.
+
+9. Developer Documentation Page
+    Add a heading for the topic.
+    Include <code> for code samples.
+    Use <pre> for formatted blocks.
+    Add <kbd> for keyboard shortcuts.
+    Show <samp> for sample program output.
+
+10. Illustrated Profile Page
+    Add <h1> for your name.
+    Include <img> for your picture.
+    Write a short bio with <p>.
+    Use <ins> and <del> to show updates.
+    Use <br> to break contact lines.
+

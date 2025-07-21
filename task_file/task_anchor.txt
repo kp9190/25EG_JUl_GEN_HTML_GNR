@@ -1,0 +1,170 @@
+Task 1: Personal Profile Page
+Goal: Build your personal profile webpage.
+
+<h1> with your name.
+
+Profile photo using <img>.
+
+Sections for About, Skills, Education, Contact (using <h2>).
+
+Use <h3>–<h6> for sub-details (like degree or skill categories).
+
+List multiple skills or contact info with <br>.
+
+Add <a> links to email, LinkedIn, or GitHub.
+
+Use <hr> to separate each section.
+
+
+Task 2: Favorite Movie Page
+Goal: Make a fan page for your favorite movie.
+
+<h1> with the movie title.
+
+Movie poster using <img>.
+
+Sections: Director, Cast, Release Date, Awards (using headings).
+
+List multiple actors/genres with <br>.
+
+Add a short story summary in a paragraph.
+
+Use <a> to link to a trailer or IMDb page.
+
+Add <hr> between sections.
+
+
+Task 3: Portfolio Gallery
+Goal: Build a gallery page for 3+ projects.
+
+Page title with <h1>.
+
+Each project block with headings.
+
+Project screenshots with <img>.
+
+Tools used listed with <br>.
+
+Short project descriptions in paragraphs.
+
+<a> links to live demos or GitHub repos.
+
+<hr> between project blocks.
+
+
+Task 4: Event Invitation Page
+Goal: Design a formal event invite.
+
+<h1> for event name.
+
+Event banner image with <img>.
+
+Date & Time, Venue, Highlights using headings.
+
+List multiple highlights with <br>.
+
+<a> link to RSVP or event website.
+
+<hr> between main sections.
+
+
+Task 5: Travel Blog Post
+Goal: Write a single blog post about a place you visited (or want to visit).
+
+<h1> with destination name.
+
+Destination photo with <img>.
+
+Sections: Overview, Things to Do, Tips (with headings).
+
+List activities/tips with <br>.
+
+<a> link to a tourism website or map location.
+
+Use <hr> to break sections.
+
+
+Task 6: Restaurant Menu Page
+Goal: Create a sample restaurant menu.
+
+<h1> with restaurant name.
+
+Logo or dish image with <img>.
+
+Sections for Starters, Main Course, Desserts, Drinks (headings).
+
+Use <br> to list multiple items in each section.
+
+<a> link to order online or social media page.
+
+<hr> to separate menu categories.
+
+
+Task 7: Course Syllabus Page
+Goal: Design a syllabus page for a course.
+
+<h1> with course title.
+
+Course image/banner with <img>.
+
+Instructor info with headings and email link (<a>).
+
+Modules/Weeks listed with <br>.
+
+Requirements section with headings.
+
+Use <hr> to break sections.
+
+
+Task 8: News Article Page
+Goal: Simulate a news article layout.
+
+<h1> for headline.
+
+News photo with <img>.
+
+Author and Date with smaller headings.
+
+Article body split into sections with headings.
+
+Use <br> for breaking long details or quotes.
+
+<a> link to source or related article.
+
+<hr> between sections.
+
+
+Task 9: Product Landing Page
+Goal: Make a landing page for a product you invent.
+
+<h1> with product name.
+
+Product photo with <img>.
+
+Features, Specs, Benefits as headings.
+
+Use <br> to list multiple features/specs.
+
+Short sales pitch paragraph.
+
+<a> link to buy or learn more.
+
+Use <hr> to split sections.
+
+
+Task 10: Artist / Musician Bio Page
+Goal: Build a fan page for your favorite artist or yourself as an artist.
+
+<h1> with artist name.
+
+Image with <img>.
+
+Sections for Bio, Albums/Songs, Tours.
+
+List songs or albums with <br>.
+
+Add <a> link to streaming profile or social media.
+
+Use <h2>–<h6> for structuring details.
+
+Add <hr> between sections.

@@ -1,0 +1,124 @@
+Task 1: Personal Profile Page
+Goal: Create headings for your personal profile.
+
+Requirements:
+
+<h1>: Your Name
+<h2>: About Me
+<h3>: Education
+<h3>: Skills
+<h2>: Contact
+
+Example (replace with your info!):
+
+<h1>Kenil Patel</h1>
+<h2>About Me</h2>
+<h3>Education</h3>
+<h3>Skills</h3>
+<h2>Contact</h2>
+
+Task 2: Blog Post Outline
+Goal: Structure a blog post with headings.
+
+Requirements:
+
+<h1>: Blog Title (e.g., “My Travel Blog”)
+<h2>: Introduction
+<h2>: Destinations
+<h3>: India
+<h3>: Japan
+<h2>: Conclusion
+
+Example:
+
+<h1>My Travel Blog</h1>
+<h2>Introduction</h2>
+<h2>Destinations</h2>
+<h3>India</h3>
+<h3>Japan</h3>
+<h2>Conclusion</h2>
+Task 3: School Project Page
+Goal: Design headings for a school project webpage.
+
+Requirements:
+
+<h1>: Project Title
+<h2>: Problem Statement
+<h2>: Methodology
+<h2>: Results
+<h2>: Conclusion
+<h3>: Future Work (inside Conclusion)
+
+Example:
+
+<h1>Water Conservation Project</h1>
+<h2>Problem Statement</h2>
+<h2>Methodology</h2>
+<h2>Results</h2>
+<h2>Conclusion</h2>
+<h3>Future Work</h3>
+
+Task 4: Recipe Page
+Goal: Build headings for a recipe webpage.
+
+Requirements:
+
+<h1>: Recipe Name (e.g., “Chocolate Cake”)
+<h2>: Ingredients
+<h2>: Steps
+<h3>: Preparation
+<h3>: Baking
+<h2>: Tips
+
+Example:
+
+<h1>Chocolate Cake</h1>
+<h2>Ingredients</h2>
+<h2>Steps</h2>
+<h3>Preparation</h3>
+<h3>Baking</h3>
+<h2>Tips</h2>
+
+Task 5: Company Homepage Outline
+Goal: Create headings for a simple company website.
+
+Requirements:
+
+<h1>: Company Name
+<h2>: About Us
+<h2>: Services
+<h3>: Web Development
+<h3>: App Development
+<h2>: Contact Us
+
+Example:
+
+<h1>Tech Solutions Inc.</h1>
+<h2>About Us</h2>
+<h2>Services</h2>
+<h3>Web Development</h3>
+<h3>App Development</h3>
+<h2>Contact Us</h2>
+
+Task 6: Course Outline Page
+Goal: Create headings for an online course outline.
+
+Requirements:
+
+<h1>: Course Title
+<h2>: Introduction
+<h2>: Modules
+<h3>: Module 1
+<h3>: Module 2
+<h3>: Module 3
+<h2>: Conclusion
+
+Example:
+
+<h1>Web Development Bootcamp</h1>
+<h2>Introduction</h2>
+<h2>Modules</h2>
+<h3>Module 1: HTML Basics</h3>
+<h3>Module 2: CSS Styling</h3>
+<h3>Module 3: JavaScript Essentials</h3>
+<h2>Conclusion</h2>
