@@ -37,3 +37,36 @@ Example:
 
 Example inside <ul> or <ol>:
 		<li>Milk</li>
+
+4. <dl> — Description List
+	- Used to define terms and their descriptions
+	- Often used for glossaries, FAQs, etc.
+
+Used with: <dt> and <dd>
+
+Example:
+	<dl>
+	  <dt>HTML</dt>
+	  <dd>A language for web pages</dd>
+	</dl>
+	
+5. <dt> — Description Term
+	- Stands for definition term
+	- This is the name/term/title in a description list.
+
+6. <dd> — Description Details
+	- Stands for definition description
+	- This is the explanation or definition of the <dt> term.
+
+
+
+-------------------------------------------------------------------
+|  Tag   |      	Purpose             |        Used In          |
+| ------ | ---------------------------- | ----------------------- |
+| `<ul>` | Unordered list (bullets)     | With `<li>`             |
+| `<ol>` | Ordered list (numbers)       | With `<li>`             |
+| `<li>` | List item                    | Inside `<ul>` or `<ol>` |
+| `<dl>` | Description list             | With `<dt>` + `<dd>`    |
+| `<dt>` | Term (what is being defined) | Inside `<dl>`           |
+| `<dd>` | Description of the term      | Inside `<dl>`           |
+-------------------------------------------------------------------
