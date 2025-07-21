@@ -1,0 +1,39 @@
+
+
+ul ---> unordered list
+ol ---> ordered list
+
+1. <ul> — Unordered List
+	- It creates a bulleted list.
+	- Items are marked with dots (•) by default.
+	- Common for menus, features, etc.
+
+Used with: <li>
+Example:
+
+	<ul>
+	  <li>Apple</li>
+	  <li>Banana</li>
+	</ul>
+
+2. <ol> — Ordered List
+	- It creates a numbered list (1, 2, 3...).
+	- Good for steps, instructions, rankings.
+
+Used with: <li>
+
+Example:
+	<ol>
+	  <li>Wake up</li>
+	  <li>Brush your teeth</li>
+	</ol>
+
+--> ol type="value_of_oeder" (A , a , 1 , I , i )
+	
+3. <li> — List Item!
+	- Stands for list item
+	- Used inside both <ul> and <ol>
+	- Represents each entry/point.
+
+Example inside <ul> or <ol>:
+		<li>Milk</li>

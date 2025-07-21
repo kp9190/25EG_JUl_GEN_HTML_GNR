@@ -1,0 +1,22 @@
+==> HTML List Practice Tasks (1 to 20)
+	
+	1. Create an unordered list of 5 fruits.
+	2. Make a numbered list (ordered list) showing 4 daily morning activities.
+	3. Use <ul> to show 3 favorite programming languages.
+	4. Build an ordered list of 5 school subjects in your order of preference.
+	5. Make a <dl> that defines the terms HTML, CSS, and JavaScript.
+	6. Create a list of 3 items using <ul>, and each <li> should include a short sentence.
+	7. Create a recipe step-by-step using <ol> (at least 5 steps).
+	8. Create a glossary using <dl> to define 5 technical terms.
+	9. Make a list of 4 favorite games using an unordered list.
+	10.Create a list of 3 goals you want to achieve using <ol>.
+	11.Build a <dl> where each <dt> is a web technology and <dd> is its use.
+	12.Make a <ul> with nested <ol> inside one <li> to show substeps.
+	13.Create a list of 5 countries using <ul>, and each should have a flag emoji.
+	14.Make a description list of 3 animals and their characteristics.
+	15.Create an ordered list of the top 5 movies you've seen.
+	16.Build a food menu using <dl> – items as <dt> and descriptions as <dd>.
+	17.Use <ol> to show a to-do list for your project.
+	18.Create a list of computer parts using <ul>, and bold each item.
+	19.Make a <dl> about 3 HTML tags and explain them.
+	20.Make a <ul> with at least 4 <li> items and include emojis in each item.
