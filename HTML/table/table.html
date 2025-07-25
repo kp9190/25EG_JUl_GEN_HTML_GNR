@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Table</title>
+</head>
+<body>
+
+    <!-- 
+        Table Properties:
+        - border="1": Adds a border to the table and its cells.
+        - cellpadding="10": Adds 10px space *inside* each cell between the text and cell border.
+        - cellspacing="0": Removes space *between* adjacent table cells (no gap).
+    -->
+    <table border="1" cellpadding="10" cellspacing="0">
+        
+        <!-- Table Header -->
+        <thead>
+            <tr>
+                <th width="100">Name</th>
+                <th colspan="2" width="150">Roll No.</th> <!-- Two roll numbers shown -->
+                <th>Class</th>
+                <th>Div</th>
+            </tr>
+        </thead>
+
+        <!-- Table Body -->
+        <tbody align="center">
+
+            <!-- Row 1 with right alignment -->
+            <tr align="right">
+                <td bgcolor="red">Bhavya</td> <!-- Red background -->
+                <td>21</td>
+                <td>36</td>
+                <td height="30">12th</td> <!-- Sets row height -->
+                <td>E</td>
+            </tr>
+
+            <!-- Row 2 with left alignment -->
+            <tr align="left">
+                <td>Aarav</td>
+                <td>22</td>
+                <td>37</td>
+                <td>12th</td>
+                <td>E</td>
+            </tr>
+
+            <!-- Row 3: Meera (previously misused <thead>, fixed here) -->
+            <tr bgcolor="green"> <!-- Green background for this row -->
+                <td>Meera</td>
+                <td>23</td>
+                <td>38</td>
+                <td>12th</td>
+                <td>E</td>
+            </tr>
+
+            <!-- Row 4 -->
+            <tr>
+                <td>Rohan</td>
+                <td>24</td>
+                <td>39</td>
+                <td>12th</td>
+                <td>E</td>
+            </tr>
+
+            <!-- Row 5 -->
+            <tr>
+                <td>Simran</td>
+                <td>25</td>
+                <td>40</td>
+                <td>12th</td>
+                <td>E</td>
+            </tr>
+
+        </tbody>
+
+        <!-- Table Footer -->
+        <tfoot>
+            <tr>
+                <td>Total</td>
+                <td colspan="2">5 Students</td> <!-- Merges 2 columns into one -->
+                <td>—</td>
+                <td>—</td>
+            </tr>
+        </tfoot>
+
+    </table>
+
+</body>
+</html>

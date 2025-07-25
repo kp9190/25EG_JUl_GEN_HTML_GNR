@@ -1,0 +1,127 @@
+1. <table>
+	- Defines a table.
+	- Wraps all rows and cells.
+
+Example:
+	<table>
+	  <!-- table content goes here -->
+	</table>
+
+2. <tr> (Table Row)
+	- Defines a row in the table.
+	- It goes inside <table>, <thead>, <tbody>, or <tfoot>.
+
+Example:
+	<tr>
+	  <td>Row 1, Cell 1</td>
+	  <td>Row 1, Cell 2</td>
+	</tr>
+
+3. <td> (Table Data)
+	- Stands for "table data".
+	- Defines a cell in a row.
+Example:
+	<td>Apple</td>
+	<td>10</td>
+
+4. <th> (Table Header)
+	- Used to create header cells.
+	- Makes text bold and centered by default.
+Example:
+	<th>Name</th>
+	<th>Age</th>
+
+5. <caption>
+	- Adds a title or label to the table.
+	- Appears above the table by default.
+Example:
+	<caption>Student List</caption>
+
+6. <thead>
+	- Groups header rows.
+	- Usually used with <th> inside.
+
+Example:
+	<thead>
+	  <tr>
+		<th>Name</th>
+		<th>Marks</th>
+	  </tr>
+	</thead>
+
+7. <tbody>
+	- Groups the main content rows of the table.
+
+Example:
+	<tbody>
+	  <tr>
+		<td>Kenil</td>
+		<td>95</td>
+	  </tr>
+	</tbody>
+
+8. <tfoot>
+	- Defines the footer of the table.
+	- Often used to show totals, notes, or summaries.
+
+Example:
+	<tfoot>
+	  <tr>
+		<td>Total</td>
+		<td>285</td>
+	  </tr>
+	</tfoot>
+
+--> Full Example Using All Tags:
+
+	<table border="1">
+	  <caption>Student Marks Table</caption>
+	  <thead>
+		<tr>
+		  <th>Name</th>
+		  <th>Math</th>
+		  <th>Science</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr>
+		  <td>Kenil</td>
+		  <td>90</td>
+		  <td>85</td>
+		</tr>
+		<tr>
+		  <td>Priya</td>
+		  <td>95</td>
+		  <td>88</td>
+		</tr>
+	  </tbody>
+	  <tfoot>
+		<tr>
+		  <td>Total</td>
+		  <td>185</td>
+		  <td>173</td>
+		</tr>
+	  </tfoot>
+	</table>
+
+cellpadding
+cellspacing
+width
+height
+aling
+bgcolor
+colspan
+roespan
+
+-----------------------------------------------------------------------------------
+| Tag         | Full Form    | Purpose / Description                              |
+| ----------- | ------------ | -------------------------------------------------- |
+| `<table>`   | —            | Starts the table                                   |
+| `<tr>`      | Table Row    | Defines a row in the table                         |
+| `<th>`      | Table Header | Adds a heading cell (bold and centered by default) |
+| `<td>`      | Table Data   | Adds a standard data cell                          |
+| `<caption>` | —            | Adds a title to the table                          |
+| `<thead>`   | Table Head   | Groups header rows                                 |
+| `<tbody>`   | Table Body   | Groups body rows (main content)                    |
+| `<tfoot>`   | Table Footer | Groups footer rows (like total, summary)           |
+-----------------------------------------------------------------------------------
